@@ -1,0 +1,28 @@
+1. Software Requirements
+- Operating System: Windows, Linux, or macOS
+- Web Browser: Google Chrome, Microsoft Edge, or Firefox
+- Code Editor: Visual Studio Code (optional)
+- Internet Connection: Required for online map tiles and external libraries
+2. Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Leaflet.js – for interactive maps
+- OpenStreetMap – for map data
+- Browser LocalStorage – for saving application data
+3. Hardware Requirements
+- Computer, laptop, or smartphone
+- Minimum 2 GB RAM
+- Internet access
+- GPS/location permission for current-location features
+4. Installation Requirements
+1. Download or clone the GitHub repository.
+2. Open the project folder.
+3. Open new.html in a web browser.
+4. Allow location access when using GPS features.
+5. Important Notes
+- No database installation is required.
+- No separate backend server is required for the current demo.
+- Complaint data is stored in the browser's LocalStorage.
+- An internet connection is needed for map services and external libraries.
+- GPS access generally requires HTTPS or localhost.
